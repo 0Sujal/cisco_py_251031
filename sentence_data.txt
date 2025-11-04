@@ -1,0 +1,2 @@
+['Sujal', 'is', 'a', 'good', 'boy']
+('SUJAL', 'IS', 'A', 'GOOD', 'BOY')
